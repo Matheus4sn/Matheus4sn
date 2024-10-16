@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Matheus4sn/Matheus4sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Matheus Marques
 
-Here are some ideas to get you started:
+Iniciante em programação, estudante de Psicologia. Atualmente estou trabalhando como Assistente de Processos no ramo metalúrgico.
+Meu maior interesse é a interseccção entre a Psicologia e a Tecnologia. Meus hobbies são ler e escutar música.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Habilidades
+![Static Badge](https://img.shields.io/badge/HTML5%20-gray?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+
+
+## Roadmap
+
+[![roadmap.sh](https://roadmap.sh/card/tall/65c35b3a0c54812283aaed2a?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+
+#### Créditos
+- Card de progresso feito no [Roadmap.sh](https://roadmap.sh/)
+- Badge feito utilizando o [Shields.io](https://shields.io/) e o [Simpleincons.org](https://simpleicons.org/)
